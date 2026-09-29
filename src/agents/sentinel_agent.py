@@ -159,4 +159,3 @@ def analyze_with_sentinel(user_input: str, groq_client=None):
         "confidence": 0.94 if is_crime else 0.62,
         "summary": f"Based on my 15 years of FIA NR3C experience investigating 2000+ cases under PECA 2016, this incident involving '{user_input[:100]}...' indicates potential {detected_type}. With the full 39-page amended PECA Act (60 sections), this falls under cybercrime which violates privacy, dignity, modesty and is punishable. The content suggests harassment, intimidation, blackmail, defamation or unauthorized access which is criminalized under PECA 2016 with protection for victims.",
         "peca_keywords": matched_keys[:5] if matched_keys else ["general harassment"]
-    }
