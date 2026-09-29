@@ -4,3 +4,7 @@ groq==0.11.0
 sentence-transformers==2.7.0
 faiss-cpu==1.8.0
 bcrypt==4.2.0
+langgraph==0.2.39
+langchain==0.3.7
+langchain-groq==0.2.2
+langchain-community==0.3.7
