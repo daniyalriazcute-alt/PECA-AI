@@ -62,9 +62,8 @@ Your case - blackmailing with private photos demanding 50000 rupees threatening 
 3. Helpline 9911
 4. File under Section 21
 
-*FAISS Score: {best['score']:.3f} | Verified from PECA 2016 DB | openai/gpt-oss-20b | LangGraph*
+*FAISS Score: {best['score']:.3f} | Verified from PECA 2016 DB | *
 
-**Note**: Set GROQ_API_KEY in Streamlit Secrets for full AI verbose response.
 """
 
     return {
