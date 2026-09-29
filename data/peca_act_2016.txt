@@ -1,12 +1,23 @@
-PECA ACT 2016 Pakistan
+PECA ACT 2016 - Prevention of Electronic Crimes Act 2016 Pakistan - Detailed Sections
 
-Section 3: Unauthorized access - 3 months or fine 50,000
-Section 4: Unauthorized copying - 6 months or fine 100,000
-Section 10: Cyber Terrorism - 14 years or fine 5 million
-Section 16: Identity theft - 3 years or fine 5 million
-Section 20: Dignity - 3 years or fine 1 million
-Section 21: Modesty/blackmail/photos - 5 years or fine 5 million
-Section 24: Cyber Stalking - 3 years or fine 1 million
-Section 26: Hate Speech - 7 years
+Section 3 - Unauthorized access to information system: Whoever with dishonest intention gains unauthorized access to any information system shall be punished with imprisonment up to 3 months or fine up to 50,000 rupees or both. Example: Hacking email, Facebook.
 
-Report: complaint.fia.gov.pk | Helpline 9911
+Section 4 - Unauthorized copying or transmission of data: Whoever copies or transmits data without authorization shall be punished with imprisonment up to 6 months or fine up to 100,000 rupees or both.
+
+Section 10 - Cyber Terrorism: Whoever commits cyber terrorism including hate speech, interfaith hatred via information system shall be punished with imprisonment up to 14 years or fine up to 5 million rupees or both.
+
+Section 16 - Unauthorized use of identity information: Whoever uses someone's identity information without authorization to harm reputation or for fraud shall be punished with imprisonment up to 3 years or fine up to 5 million rupees or both. Example: Fake profile using someone's name and photos.
+
+Section 20 - Offences against dignity of a natural person: Whoever with dishonest intention harms dignity by false information, defamation, posting fake allegations online shall be punished with imprisonment up to 3 years or fine up to 1 million rupees or both.
+
+Section 21 - Offences against modesty of a natural person and minor - Blackmail Sextortion Private Photos: Whoever intentionally and willfully intimidates, harasses, blackmails, or extorts a person by threatening to disseminate or actually disseminating intimate images, private photos, videos, or information to harm modesty, or superimposes intimate image, or engages in sextortion, shall be punished with imprisonment up to 5 years or fine up to 5 million rupees or both. This includes blackmailing with private photos for money, threatening to leak private photos if payment not made, sharing intimate photos without consent, and sextortion.
+
+Section 21A - Child pornography: Up to 7 years and fine up to 5 million.
+
+Section 24 - Cyber Stalking: Whoever with dishonest intention stalks a person through email, SMS, internet, monitors, tracks, spies, repeatedly contacts to harass shall be punished with imprisonment up to 3 years or fine up to 1 million rupees or both. Example: Constantly monitoring Instagram, repeated messages.
+
+Section 26 - Hate Speech: Whoever prepares or disseminates information that advances interfaith, sectarian or racial hatred shall be punished with up to 7 years or fine.
+
+Reporting Procedure: FIA National Response Centre for Cyber Crime (NR3C) - Website complaint.fia.gov.pk - Helpline 9911 - Email complaint@fia.gov.pk - Preserve screenshots, URLs, chat records as evidence. File complaint under relevant PECA section.
+
+PECA Act 2016 protects dignity and modesty of natural persons against cyber harassment, bullying, blackmail, sextortion, identity theft, hacking, stalking, hate speech.
